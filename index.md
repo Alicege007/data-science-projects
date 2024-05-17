@@ -2,17 +2,19 @@
 
 ---
 
-### Data Science Projects 
+### Early diagnosis of Psoriatic Arthritis 
 
 [Early diagnosis of Psoriatic Arthritis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Tesco dataset analysis 
 [Tesco dataset analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Brexit Leave dataset](http://example.com/)
+### Recomendation system 
+[Recomendation system](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
