@@ -19,8 +19,12 @@
 ---
 ### Recomendation system 
 [Recomendation system](http://example.com/)
+### 项目描述和研究结论&意义
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### 语言&工具
+### 技术&模型
+#### [源代码](http://example.com/)
 ---
 
 ### Web developemnt
