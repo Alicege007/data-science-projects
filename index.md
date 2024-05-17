@@ -6,7 +6,8 @@
 
 [Early diagnosis of Psoriatic Arthritis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 ### Tesco dataset analysis 
 [Tesco dataset analysis](/pdf/sample_presentation.pdf)
