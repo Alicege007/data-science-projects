@@ -1,14 +1,15 @@
-## Portfolio
+## Data science projects
 
 ---
 
-### Early diagnosis of Psoriatic Arthritis 
+## Early diagnosis of Psoriatic Arthritis 
 
 [Early diagnosis of Psoriatic Arthritis](/sample_page)
-Background, the research dedicated to reduce suffering of patients
-<img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Background, the research dedicated to reduce suffering of patients
 
+<img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### 
 
 ---
 ### Tesco dataset analysis 
