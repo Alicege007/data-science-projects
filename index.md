@@ -11,7 +11,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Language & Technologies & Models & development tools
-- 📊 **R Language** 📒 **Jupyter Notebook** 🐼 **Pandas**  📈 **Logistic Regression** | **Linear Regression** | **Ordinal Regression**
+
+- 📊 **R Language**  🐼 **Pandas**  📈 **Logistic Regression** | **Linear Regression** | **Ordinal Regression** 🧠 **Seaborn**
 
  <a href="https://github.com/your-username/your-repo">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
@@ -27,7 +28,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Language & Technologies & Models & development tools
+
 🐍 **Python**  🐼 **Pandas** 🔢 **Numpy** 📈**Linear Regression** | **Regularization** | **Heatmap** | **Pearson correlation** | **Hypothesis Test**
+📒 **Jupyter Notebook**
 
  <a href="https://github.com/your-username/your-repo">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
@@ -58,13 +61,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Language & Technologies & Models & development tools
--🐍 **R Language**  💻  **Interaction** | **AIC** 💾 **Redis** 
+-🐍 **R Language**  💻  **Interaction** | **AIC** | **Transformation** 🌐 **Matplotlib**
 
  <a href="https://github.com/your-username/your-repo">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
 </a>
 
-
+---
 ### Brexit Leave Anaylsis 
 
 ### Background, the research dedicated to reduce suffering of patients
@@ -73,7 +76,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Language & Technologies & Models & development tools
--🐍 **R Language**    👩‍💻 **Interaction** | **AIC** 
+-🐍 **R Language**  👩‍💻 **Interaction** | **AIC** 
 
  <a href="https://github.com/your-username/your-repo">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
