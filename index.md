@@ -69,7 +69,7 @@
 
 ### Background, the research dedicated to reduce suffering of patients
 
-img src="images/Bre1.png?raw=true" width="400" height="250"/> <img src="images/Bre2.png?raw=true" width="400" height="250"/>
+<img src="images/Bre1.png?raw=true" width="400" height="250"/> <img src="images/Bre2.png?raw=true" width="400" height="250"/>
 <img src="images/Bre3.png?raw=true" width="400" height="300"/> <img src="images/Bre4.png?raw=true" width="400" height="300"/>
 <img src="images/Bre5.png?raw=true" width="400" height="250"/> 
 
