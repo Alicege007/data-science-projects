@@ -2,9 +2,9 @@
 
 ---
 
-## Early diagnosis of Psoriatic Arthritis 
+### Early diagnosis of Psoriatic Arthritis 
 
-### Background, the research dedicated to reduce suffering of patients
+#### Background, the research dedicated to reduce suffering of patients
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="Analysis Report" style="width:200px;height:auto;">
 </a>
 ---
+
 ### Tesco dataset analysis 
 ### Background, the research dedicated to reduce suffering of patients
 
