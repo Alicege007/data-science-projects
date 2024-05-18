@@ -76,7 +76,7 @@
 ### Language & Technologies & Models & development tools
 -🐍 **R Language**  💻  **Interaction** | **AIC** | **Transformation** 🌐 **Matplotlib**
 
- <a href="https://github.com/your-username/your-repo">
+ <a href="https://nbviewer.org/github/Alicege007/Machine-Learning/blob/main/CW2.html">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
 </a>
  <a href="https://github.com/your-username/your-repo">
