@@ -4,7 +4,6 @@
 
 ## Early diagnosis of Psoriatic Arthritis 
 
-[Early diagnosis of Psoriatic Arthritis](/sample_page)
 ### Background, the research dedicated to reduce suffering of patients
 
 
@@ -12,35 +11,48 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ## Language & Technologies & Models & development tools
-- 📊 <strong style="font-size: 100px;">R Language</strong>: Used for statistical computing and graphics.<br>
-- 📒 <strong style="font-size: 18px;">Jupyter Notebook</strong>: Interactive computing environment.<br>
-- 🐼 <strong style="font-size: 18px;">Pandas</strong>: Data manipulation and analysis.<br>
-- 🔢 <strong style="font-size: 18px;">NumPy</strong>: Numerical computing with Python.
+- 📊 <strong style="font-size: 100px;">R Language</strong> 📒 <strong style="font-size: 18px;">Jupyter Notebook</strong> 🐼 <strong style="font-size: 18px;">Pandas</strong> 🔢 <strong style="font-size: 18px;">NumPy</strong> 📈 <strong>Logistic Regression, Linear Regression, Ordinal Regression</strong>
 
-
+ <a href="https://github.com/your-username/your-repo">
+  <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
+</a>
 
 
 ---
 ### Tesco dataset analysis 
-[Tesco dataset analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Background, the research dedicated to reduce suffering of patients
 
----
-### Recomendation system 
-[Recomendation system](http://example.com/)
-### 项目描述和研究结论&意义
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 语言&工具
-### 技术&模型
-## Technologies & Models
+<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- 🐍 **Python** 🔥 **Apache Spark** - 🌐 **Flask**
+## Language & Technologies & Models & development tools
+- 🐍 **Python**  🐼 **Pandas** 🔢 **Numpy** 📈 <strong>Linear Regression, Regularization, Heatmap, Pearson correlation, Hypothesis Test</strong>
 
-#### 
  <a href="https://github.com/your-username/your-repo">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
 </a>
+
+---
+### Recomendation System 
+
+### Background, the research dedicated to reduce suffering of patients
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+## Language & Technologies & Models & development tools
+-🐍 **Python** 🔥 **Apache Spark** - 🌐 **Flask** 🤖 **Tensorflow** 🧠  **Neural Networks** | **Multi Hot Encode** | **Embedding**
+💾 **Redis** 📝 **A/B test** **Grid Search**
+
+ <a href="https://github.com/your-username/your-repo">
+  <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
+</a>
+
+
+
+#### 
+
 
 
 
