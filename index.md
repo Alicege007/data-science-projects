@@ -16,7 +16,7 @@
 
 - 📊 **R Language**  🐼 **Pandas**  📈 **Logistic Regression** | **Linear Regression** | **Ordinal Regression** 🧠 **Seaborn**
 
- <a href="https://github.com/your-username/your-repo">
+ <a href="https://www.kaggle.com/work">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
   </a>
   
