@@ -10,7 +10,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-## Language & Technologies & Models & development tools
+### Language & Technologies & Models & development tools
 - 📊 **R Language** 📒 **Jupyter Notebook** 🐼 **Pandas**  📈 **Logistic Regression** | **Linear Regression** | **Ordinal Regression**
 
  <a href="https://github.com/your-username/your-repo">
@@ -26,7 +26,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-## Language & Technologies & Models & development tools
+### Language & Technologies & Models & development tools
 🐍 **Python**  🐼 **Pandas** 🔢 **Numpy** 📈**Linear Regression** | **Regularization** | **Heatmap** | **Pearson correlation** | **Hypothesis Test**
 
  <a href="https://github.com/your-username/your-repo">
@@ -41,7 +41,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-## Language & Technologies & Models & development tools
+### Language & Technologies & Models & development tools
 -🐍 **Python** 🔥 **Apache Spark**  🌐 **Flask** 🤖 **Tensorflow** 🧠  **Neural Networks** | **Multi Hot Encode** | **Embedding**
 💾 **Redis** 📝 **A/B test** | **Grid Search** 🕷️ **Scrapy**
 
@@ -57,7 +57,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-## Language & Technologies & Models & development tools
+### Language & Technologies & Models & development tools
 -🐍 **R Language**  💻  **Interaction** | **AIC** 💾 **Redis** 
 
  <a href="https://github.com/your-username/your-repo">
@@ -72,7 +72,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-## Language & Technologies & Models & development tools
+### Language & Technologies & Models & development tools
 -🐍 **R Language**    👩‍💻 **Interaction** | **AIC** 
 
  <a href="https://github.com/your-username/your-repo">
@@ -93,7 +93,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-## Language & Technologies & Models & development tools
+### Language & Technologies & Models & development tools
 -🐍 **Python** 💾 **SQL** 💻 **PyCharm**
 
  <a href="https://github.com/your-username/your-repo">
