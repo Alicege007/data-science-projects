@@ -31,8 +31,9 @@
 ### Background, the research dedicated to reduce suffering of patients
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Tes1.png?raw=true" width="400" height="250"/> <img src="images/Tes5.png?raw=true" width="400" height="250"/>
+<img src="images/Tes2.png?raw=true" width="400" height="300"/> <img src="images/Tes3.png?raw=true" width="400" height="300"/>
+<img src="images/Tes4.png?raw=true" width="400" height="250"/> 
 
 ### Language & Technologies & Models & development tools
 
