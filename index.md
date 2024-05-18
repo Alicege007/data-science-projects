@@ -7,9 +7,18 @@
 [Early diagnosis of Psoriatic Arthritis](/sample_page)
 ### Background, the research dedicated to reduce suffering of patients
 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
-#### 
+
+## Language & Technologies & Models & development tools
+- 📊 <strong style="font-size: 100px;">R Language</strong>: Used for statistical computing and graphics.<br>
+- 📒 <strong style="font-size: 18px;">Jupyter Notebook</strong>: Interactive computing environment.<br>
+- 🐼 <strong style="font-size: 18px;">Pandas</strong>: Data manipulation and analysis.<br>
+- 🔢 <strong style="font-size: 18px;">NumPy</strong>: Numerical computing with Python.
+
+
+
 
 ---
 ### Tesco dataset analysis 
@@ -24,7 +33,20 @@
 
 ### 语言&工具
 ### 技术&模型
-#### [源代码](http://example.com/)
+## Technologies & Models
+
+- 🐍 **Python** 🔥 **Apache Spark** - 🌐 **Flask**
+
+#### 
+ <a href="https://github.com/your-username/your-repo">
+  <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
+</a>
+
+
+
+
+
+
 ---
 
 ### Web developemnt
