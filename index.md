@@ -11,7 +11,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ## Language & Technologies & Models & development tools
-- 📊 <strong style="font-size: 100px;">R Language</strong> 📒 <strong style="font-size: 18px;">Jupyter Notebook</strong> 🐼 <strong style="font-size: 18px;">Pandas</strong> 🔢 <strong style="font-size: 18px;">NumPy</strong> 📈 <strong>Logistic Regression, Linear Regression, Ordinal Regression</strong>
+- 📊 **R**📒 **Jupyter Notebook**🐼 **Pandas** 📈 **Logistic Regression** | **Linear Regression** | **Ordinal Regression**
 
  <a href="https://github.com/your-username/your-repo">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
@@ -27,7 +27,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ## Language & Technologies & Models & development tools
-- 🐍 **Python**  🐼 **Pandas** 🔢 **Numpy** 📈 <strong>Linear Regression, Regularization, Heatmap, Pearson correlation, Hypothesis Test</strong>
+🐍 **Python**  🐼 **Pandas** 🔢 **Numpy** 📈**Linear Regression** | **Regularization** | **Heatmap** | **Pearson correlation** | **Hypothesis Test**
 
  <a href="https://github.com/your-username/your-repo">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
