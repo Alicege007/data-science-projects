@@ -57,7 +57,7 @@
 -🐍 **Python** 🔥 **Apache Spark**  🌐 **Flask** 🤖 **Tensorflow** 🧠  **Neural Networks** | **Multi Hot Encode** | **Embedding**
 💾 **Redis** 📝 **A/B test** | **Grid Search** 🕷️ **Scrapy**
 
- <a href="https://github.com/your-username/your-repo">
+ <a href="https://nbviewer.org/github/Alicege007/Recomendation_Coding/blob/main/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%EF%BC%88source%20code%EF%BC%89.ipynb">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
 </a>
  <a href="https://github.com/your-username/your-repo">
