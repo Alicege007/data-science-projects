@@ -105,8 +105,7 @@
 
 ### Background, the research dedicated to reduce suffering of patients
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/demo.gif?raw=true"/> 
 
 ### Language & Technologies & Models & development tools
 -🐍 **Python** 💾 **SQL** 💻 **PyCharm**
