@@ -7,7 +7,7 @@
 #### Background, the research dedicated to reduce suffering of patients
 
 
-<img src="images/PsA.png?raw=true" width="800" height="250"/> 
+<img src="images/PsA.png?raw=true" width="700" height="180"/> 
 
 
 
@@ -30,7 +30,7 @@
 ### Background, the research dedicated to reduce suffering of patients
 
 
-<img src="images/tesco.png?raw=true" width="800" height="250"/> 
+<img src="images/tesco.png?raw=true" width="700" height="180"/> 
 
 ### Language & Technologies & Models & development tools
 
