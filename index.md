@@ -13,7 +13,7 @@
 
 ### Language & Technologies & Models & development tools
 
-- 📊 **R Language**  🐼 **Pandas**  📈 **Logistic Regression** | **Linear Regression** | **Ordinal Regression** 🧠 **Seaborn**
+📊 **R Language** 🐼 **Pandas** 📈 **Logistic Regression** | **Linear Regression** | **Ordinal Regression** 🧠 **Seaborn**
 
  <a href="https://nbviewer.org/github/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/PsA_Project.html">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
