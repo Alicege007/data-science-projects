@@ -47,7 +47,7 @@
 
 ### Background, the research dedicated to reduce suffering of patients
 
-<img src="images/recomendation.png?raw=true" width="800" height="250"/> 
+<img src="images/recomedation.png?raw=true" width="800" height="250"/> 
 
 ### Language & Technologies & Models & development tools
 -🐍 **Python** 🔥 **Apache Spark**  🌐 **Flask** 🤖 **Tensorflow** 🧠  **Neural Networks** | **Multi Hot Encode** | **Embedding**
