@@ -47,8 +47,7 @@
 
 ### Background, the research dedicated to reduce suffering of patients
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/recomendation.png?raw=true" width="800" height="250"/> 
 
 ### Language & Technologies & Models & development tools
 -🐍 **Python** 🔥 **Apache Spark**  🌐 **Flask** 🤖 **Tensorflow** 🧠  **Neural Networks** | **Multi Hot Encode** | **Embedding**
@@ -66,7 +65,7 @@
 
 ### Background, the research dedicated to reduce suffering of patients
 
-<img src="images/Bre1.png?raw=true" width="800" height="250"/> 
+<img src="images/Bre1.png?raw=true" width="850" height="250"/> 
 
 
 ### Language & Technologies & Models & development tools
@@ -84,8 +83,7 @@
 
 ### Background, the research dedicated to reduce suffering of patients
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> 
 
 ### Language & Technologies & Models & development tools
 -🐍 **R Language**  👩‍💻 **Interaction** | **AIC** 
