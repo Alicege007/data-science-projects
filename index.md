@@ -65,7 +65,7 @@
 
 ### Background, the research dedicated to reduce suffering of patients
 
-<img src="images/Bre1.png?raw=true" width="850" height="250"/> 
+<img src="images/Bre1.png?raw=true" width="650" height="180"/> 
 
 
 ### Language & Technologies & Models & development tools
