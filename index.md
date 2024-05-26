@@ -7,7 +7,7 @@
 #### Background, the research dedicated to reduce suffering of patients
 
 
-<img src="images/PsA.png?raw=true" width="430" height="250"/> 
+<img src="images/PsA.png?raw=true" width="700" height="250"/> 
 
 
 
