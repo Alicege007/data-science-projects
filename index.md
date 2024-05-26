@@ -7,9 +7,8 @@
 #### Background, the research dedicated to reduce suffering of patients
 
 
-<img src="images/Pso1.png?raw=true" width="400" height="250"/> <img src="images/Pso2.png?raw=true" width="400" height="250"/>
-<img src="images/Pso3.png?raw=true" width="400" height="300"/> <img src="images/Pso4.png?raw=true" width="400" height="300"/>
-<img src="images/Pso5.png?raw=true" width="400" height="250"/> 
+<img src="images/PsA.png?raw=true" width="430" height="250"/> 
+
 
 
 ### Language & Technologies & Models & development tools
