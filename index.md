@@ -69,7 +69,7 @@
 
 ### 其他项目
 
-<img src="images/other.png?raw=true", width="650" height="180"/> 
+<img src="images/other.png?raw=true" width="650" height="180"/> 
 
 ### Language & Technologies & Models & development tools
 -🐍 **R Language**  👩‍💻 **Interaction** | **AIC** 
