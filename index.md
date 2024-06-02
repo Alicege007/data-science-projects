@@ -74,7 +74,7 @@
 ### Language & Technologies & Models & development tools
 -🐍 **R Language**  👩‍💻 **Interaction** | **AIC** 
 
- <a href="https://github.com/your-username/your-repo">
+ <a href="https://nbviewer.org/github/Alicege007/Other-project/blob/main/CW2_2022_23_MA50259.html">
   <img src="https://img.shields.io/badge/source%20code-green?style=for-the-badge&logo=github" alt="source code" style="width:200px;height:auto;">
 </a>
 
