@@ -69,7 +69,7 @@
 
 ### 其他项目
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/> 
+<img src="images/other.png?raw=true"/> 
 
 ### Language & Technologies & Models & development tools
 -🐍 **R Language**  👩‍💻 **Interaction** | **AIC** 
